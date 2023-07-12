@@ -119,10 +119,11 @@ form p{
 #login-btn{
   padding: 10px 108px;
   font-size: 12px;
-  background-color: #04C35C;
+  background-color: #d1bc00;
   color: white;
   border: none;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 #signup-btn{
@@ -133,6 +134,7 @@ form p{
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 10px;
   }
 
 
